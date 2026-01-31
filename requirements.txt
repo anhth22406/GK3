@@ -1,0 +1,4 @@
+streamlit
+vaex
+pyarrow
+pandas
